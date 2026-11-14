@@ -1,0 +1,9 @@
+Patient: 52-year-old male
+Date: 2026-11-12
+
+Chief complaint: Patient came in for a routine check-up, reports occasional mild headaches in
+the morning and some dizziness when standing up quickly, but otherwise feels fine. No chest
+pain, no shortness of breath. Sedentary job, admits to a high-salt diet and rarely exercises.
+Smokes occasionally (about 2-3 cigarettes a day). No known history of diabetes.
+
+Vitals: BP 158/98 (repeated after 10 minutes rest: 152/94), Pulse 82 bpm, BMI 29.

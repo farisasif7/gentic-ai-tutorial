@@ -1,0 +1,47 @@
+[
+  {
+    "appointment_id": "APT-0001",
+    "diagnosis": "dengue",
+    "symptoms": [
+      "fever",
+      "headache",
+      "eye_pain",
+      "joint_pain",
+      "rash"
+    ],
+    "risk_level": "medium",
+    "specialist": "General Physician",
+    "doctor": "Dr. A. Khan",
+    "datetime": "2026-11-15 10:00",
+    "booked_at": "2026-11-14T09:58:46"
+  },
+  {
+    "appointment_id": "APT-0002",
+    "diagnosis": "type 2 diabetes",
+    "symptoms": [
+      "increased thirst",
+      "frequent urination",
+      "unintentional weight loss",
+      "persistent tiredness",
+      "blurred vision"
+    ],
+    "risk_level": "medium",
+    "specialist": "General Physician",
+    "doctor": "Dr. A. Khan",
+    "datetime": "2026-11-15 11:00",
+    "booked_at": "2026-11-14T09:59:44"
+  },
+  {
+    "appointment_id": "APT-0003",
+    "diagnosis": "hypertension",
+    "symptoms": [
+      "mild headaches",
+      "dizziness upon standing"
+    ],
+    "risk_level": "medium",
+    "specialist": "Cardiologist",
+    "doctor": "Dr. F. Malik",
+    "datetime": "2026-11-15 12:00",
+    "booked_at": "2026-11-14T10:01:07"
+  }
+]

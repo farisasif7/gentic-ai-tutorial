@@ -1,0 +1,10 @@
+Patient: 45-year-old female
+Date: 2026-11-11
+
+Chief complaint: Increased thirst and frequent urination for the past 2 months, especially at
+night. Patient reports persistent tiredness and has noticed unintentional weight loss of
+about 4 kg. Occasional blurred vision when reading. No fever, no pain. Family history of
+type 2 diabetes (mother and older sibling both diagnosed in their 40s).
+
+Vitals: BP 128/82, Pulse 78 bpm, BMI 27.
+Random blood sugar test at clinic: 238 mg/dL.

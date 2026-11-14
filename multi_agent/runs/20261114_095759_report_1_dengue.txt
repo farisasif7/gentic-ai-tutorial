@@ -1,0 +1,24 @@
+=== Run for report_1_dengue (20261114_095759) ===
+
+--- Medical report ---
+Patient: 28-year-old male
+Date: 2026-11-10
+
+Chief complaint: High fever for the last 3 days, around 102-103 F, not responding well to
+paracetamol. Patient also reports a severe headache, pain behind the eyes, joint and muscle
+pain ("body feels broken"), and mild nausea. A faint red rash appeared on the arms and chest
+on day 3. No bleeding from gums or nose observed. No recent travel outside the city, but
+patient mentions a lot of mosquitoes at home recently and a family member was treated for a
+similar fever two weeks ago.
+
+Vitals: Temp 102.6 F, BP 110/70, Pulse 96 bpm.
+
+
+--- Orchestrator trace ---
+  [orchestrator -> data_agent({'diagnosis': 'fever, rash, headache, muscle aches, nausea, joint pain, low grade fever, no other significant findings'})]
+  [data_agent result: {"diagnosis": "dengue", "symptoms": ["fever", "headache", "eye_pain", "joint_pain", "rash"], "risk_level": "medium"}]
+  [orchestrator -> analysis_agent({'diagnosis': 'dengue'})]
+  [analysis_agent result: {"appointment_id": "APT-0001", "diagnosis": "dengue", "symptoms": ["fever", "headache", "eye_pain", "joint_pain", "rash"], "risk_level": "medium", "specialist": "General Physician", "doctor": "Dr. A. Khan", "datetime": "2026-11-15 10:00", "booked_at": "2026-11-14T09:58:46"}]
+
+--- Final summary ---
+The patient was diagnosed with dengue. The risk level is medium. A doctor appointment has been booked for the patient with Dr. A. Khan, a General Physician, scheduled for Tuesday, November 15th at 10:00 AM. Please note that the appointment was booked at 2026-11-14T09:58:46.
