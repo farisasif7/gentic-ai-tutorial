@@ -43,5 +43,68 @@
     "doctor": "Dr. F. Malik",
     "datetime": "2026-11-15 12:00",
     "booked_at": "2026-11-14T10:01:07"
+  },
+  {
+    "appointment_id": "APT-0004",
+    "diagnosis": "dengue",
+    "symptoms": [
+      "fever",
+      "headache",
+      "joint/muscle pain",
+      "rash"
+    ],
+    "risk_level": "medium",
+    "specialist": "General Physician",
+    "doctor": "Dr. A. Khan",
+    "datetime": "2026-11-15 10:00",
+    "booked_at": "2026-11-14T10:20:39"
+  },
+  {
+    "appointment_id": "APT-0005",
+    "diagnosis": "dengue",
+    "symptoms": [
+      "fever",
+      "headache",
+      "eye_pain",
+      "joint_pain",
+      "rash"
+    ],
+    "risk_level": "medium",
+    "specialist": "General Physician",
+    "doctor": "Dr. A. Khan",
+    "datetime": "2026-11-15 10:00",
+    "booked_at": "2026-11-14T10:21:38"
+  },
+  {
+    "appointment_id": "APT-0006",
+    "diagnosis": "dengue",
+    "symptoms": [
+      "fever",
+      "headache",
+      "eye_pain",
+      "joint_pain",
+      "rash"
+    ],
+    "risk_level": "medium",
+    "specialist": "General Physician",
+    "doctor": "Dr. A. Khan",
+    "datetime": "2026-11-15 10:00",
+    "booked_at": "2026-11-14T10:23:14"
+  },
+  {
+    "appointment_id": "APT-0007",
+    "diagnosis": "dengue",
+    "symptoms": [
+      "fever",
+      "headache",
+      "eye_pain",
+      "joint_pain",
+      "rash"
+    ],
+    "risk_level": "medium",
+    "specialist": "General Physician",
+    "doctor": "Dr. A. Khan",
+    "datetime": "2026-11-15 10:00",
+    "booked_at": "2026-11-14T10:24:22"
   }
 ]

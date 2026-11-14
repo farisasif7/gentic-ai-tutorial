@@ -28,7 +28,7 @@ def run_one(report_path, stamp):
         lines.append(line)
 
     print(f"\nRunning orchestrator on {name} ...")
-    final_answer, _ = run_orchestrator(report_text, log=log)
+    final_answer, _ = run_orchestrator(report_text, log=log, report_ref=name)
 
     lines.append("")
     lines.append("--- Final summary ---")
